@@ -1,0 +1,52 @@
+.section{
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f30a;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s ease;
+   margin-top: 50px;
+
+}
+fieldset{
+   background-color: rgb(236, 231, 231);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+img{
+    background-color: #f7f30a;
+    border-radius: 50px;
+    
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ddbe0f;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+    
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(245, 133, 58);
+    margin-top: 20px;
+    color: #fff;
+    transition: background-color 0.3s ease;
+    padding: 10px 50px;
+}
+label{
+    color: #ddbe0f;
+    margin-bottom: 30px;
+    font-size: 30px;
+
+}
